@@ -1,0 +1,30 @@
+.c1 {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  clip-path: circle(70px at 50% 50%);
+}
+.tmain {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+
+.t1 {
+  background-color: indianred;
+  clip-path: polygon(50% 0%, 100% 100%, 0% 100%);
+}
+.t2 {
+  background-color: violet;
+  clip-path: polygon(0% 0%, 50% 50%, 0% 100%);
+}
+.t3 {
+  background-color: rebeccapurple;
+  clip-path: polygon(0% 0%, 50% 50%, 100% 0%);
+}
+
+.t4 {
+  background-color: goldenrod;
+  background-color: goldenrod;
+  clip-path: polygon(50% 100%, 0% 50%, 100% 50%);
+}
